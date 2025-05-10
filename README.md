@@ -1,4 +1,4 @@
-# ✨🤖 Termo
+# 🤖✨ Termo
 
 Get instant markdown-formatted advanced AI responses within your terminal using OpenAI's GPT-4o model
 
