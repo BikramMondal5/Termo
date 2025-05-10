@@ -1,8 +1,6 @@
-# Termo
+# ✨🤖 Termo
 
-Get instant markdown-formatted advanced AI responses within your terminal using OpenAI's GPT-4o model and beautiful Rich formatting.
-
----
+Get instant markdown-formatted advanced AI responses within your terminal using OpenAI's GPT-4o model
 
 ## 🌟 Features
 - Interactive terminal-based AI assistant
@@ -43,4 +41,4 @@ Get instant markdown-formatted advanced AI responses within your terminal using 
 Contributions are welcome! Please open issues or submit pull requests for improvements and new features.
 
 ## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the `MIT License`. See the [LICENSE](LICENSE) file for details.
